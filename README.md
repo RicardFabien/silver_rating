@@ -4,4 +4,8 @@ In life, one often have to see the silver liner. Here the silver lining is that 
 ## Database
 The data used for this project can be found [here](https://www.kaggle.com/datasets/kingabzpro/movie-reviews-nlp?resource=download)
 
+## How to use
+To check the data and analysis without running the application, you can simply check [Summary.ipynb](https://github.com/RicardFabien/silver_rating/blob/master/Summary.ipynb)
+
+
 
